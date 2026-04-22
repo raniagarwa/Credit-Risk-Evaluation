@@ -113,12 +113,4 @@ python svm_model.py
 - Deploy as a web application
 - Use real-world large-scale credit datasets
 
-## Author
-Rani  
-M.Tech, Computer Science & Data Processing  
-Indian Institute of Technology Kharagpur
 
-## References
-- Bishop, Pattern Recognition and Machine Learning
-- Deisenroth, Mathematics for Machine Learning
-- Credit Risk Analysis using Support Vector Machines# Credit-Risk-Evaluation
